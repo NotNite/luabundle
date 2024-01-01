@@ -1,5 +1,4 @@
-import {version} from '../package.json'
-
+const version = '1.7.0'
 import {defaultOptions as defaultBundleOptions, RealizedOptions as BundleOptions} from '../bundle/options'
 
 import {RecursivePartial} from '../common/utility'
